@@ -1,0 +1,17 @@
+{
+  "name": "برنامه ۴ روزه تمرین",
+  "short_name": "تمرین",
+  "description": "برنامه تمرینی ۴ روزه Upper/Lower با تیک‌کردن ست‌ها و تایمر استراحت",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15171B",
+  "theme_color": "#15171B",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
