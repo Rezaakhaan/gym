@@ -1,1 +1,1 @@
-its privatr gym plan
+its private gym plan
